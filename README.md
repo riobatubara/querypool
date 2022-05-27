@@ -11,6 +11,13 @@ How to run this example
 ```sh
 go run main.go config.conf data_batch.csv
 ```
+i use following specs to run the program:
+```
+proccessor: 2 GHz Quad-Core Intel Core i5
+memory: 16 GB 3733 MHz LPDDR4X
+hadrdisk: ssd
+```
+`Not recommended on low iops hdd`
 
 note:
 i will try to create this code as golang package in the future.
